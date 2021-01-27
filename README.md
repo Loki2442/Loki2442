@@ -18,7 +18,7 @@ limitations under the License.
     
 ### <i> About Me</i>
     
-Hi there 👋 Myself Swastik and you can call me Loki. I'm a small-time developer and I have a bit of experience in HTML, CSS, Python and JavaScript. Aside of Coding, I also like doing stuff like listening to songs, playing games and chat with my friends on Discord.
+Hi there 👋 Myself Swastik and you can call me Loki also, completely your choice. I'm a small-time developer and I have a bit of experience in HTML, CSS, Python and JavaScript. Aside of Coding, I also like doing stuff like listening to songs, playing games and chat with my friends on Discord.
 </div>
 <div align = "center">
 <hr>
