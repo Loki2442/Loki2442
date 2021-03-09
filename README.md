@@ -28,7 +28,7 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 ### <i> My Profiles </i>
 
 [![](https://img.shields.io/badge/Twitter-profile-%2300acee?style=flat-square&logo=twitter)](https://twitter.com/SwastikofIndia)
-[![](https://img.shields.io/badge/Xbox-profile-%23107C10?style=flat-square&logo=xbox)](https://account.xbox.com/en-in/profile?gamertag=LokiGamingYt) 
+[![](https://img.shields.io/badge/Instagram-profile-%23833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/ig_loki2442/) 
 [![](https://img.shields.io/badge/Steam-profile-%2366c0f4?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198984209411) 
 <br>
 [![](https://img.shields.io/badge/Discord-server-%237289DA?style=flat-square&logo=discord)](https://discord.gg/6PETrY4)
