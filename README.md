@@ -31,8 +31,8 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 [![](https://img.shields.io/badge/Instagram-profile-%23833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/ig_loki2442/) 
 [![](https://img.shields.io/badge/Steam-profile-%2366c0f4?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198984209411) 
 <br>
-[![](https://img.shields.io/badge/Discord-server-%237289DA?style=flat-square&logo=discord)](https://discord.gg/6PETrY4)
-[![](https://img.shields.io/badge/Spotify-profile-%231DB954?style=flat-square&logo=spotify)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo) 
+[![](https://discord.com/api/guilds/680724849844551715/embed.png?style=banner2)](https://discord.gg/6PETrY4)
+[![Spotify](https://loki2442.vercel.app/api/playing-rn)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo) 
 <hr>
 
 <!--Factual Information-->
