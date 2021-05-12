@@ -40,9 +40,8 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 ### <i> Facts </i>
 </div>
 
-- 🔭 I’m currently working on **Some Discord Bots**
-- 🌱 I’m currently learning **JavaScript along with Discord.js library**
-- 🤔 I’m looking for help with **eris library of JavaScript**
+- 🔭 I’m currently working on **many things :P**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me: **My Discord Server**
 - ⚡ Fun fact: **I'm noob at Coding** 😉
 <hr>
