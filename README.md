@@ -32,7 +32,7 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 [![](https://img.shields.io/badge/Instagram-profile-%23833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/ig_loki2442/) 
 [![](https://img.shields.io/badge/Steam-profile-%2366c0f4?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198984209411) 
 <br>
-[![Spotify](https://github-readme-loki2442.vercel.app/api/spotify)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
+[![Spotify](https://spotify-readme-loki2442.vercel.app/api/spotify)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
 <hr>
 
 <!--Factual Information-->
