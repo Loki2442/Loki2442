@@ -44,4 +44,6 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 - 🌱 I’m currently learning **Java**
 - 📫 How to reach me: **My Discord Server**
 - ⚡ Fun fact: **I'm noob at Coding** 😉
+
+[![Spotify](https://github-readme-loki2442.vercel.app/api/spotify)](https://open.spotify.com/user/lol)
 <hr>
