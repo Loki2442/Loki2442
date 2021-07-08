@@ -16,14 +16,14 @@ limitations under the License.
 <hr>
 <div align = "center">
     
+<!--Current Status-->
+    
 ### <i> About Me</i>
     
-Hi there 👋 Myself Swastik and you can call me Loki also, completely your choice. I'm a high school student and I have a bit of experience in HTML, CSS, Python and JavaScript. Aside of Coding, I also like doing stuff like listening to songs, playing games and chat with my friends on Discord.
+Hi there 👋🏻 Myself Swastik. I'm a high school student and I have a bit of experience in coding stuff. Aside of Coding, I also like doing stuff like listening to songs, playing games and chat with my friends on Discord.
 </div>
 <div align = "center">
 <hr>
-  
-<!--Current Status-->
 
 ### <i> My Profiles </i>
 
