@@ -28,6 +28,7 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 ### <i> My Profiles </i>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/600286650509295616)](https://discord.com/users/600286650509295616)
+<br>
 [![Twitter Profile](https://img.shields.io/twitter/follow/SwastikofIndia?style=social)](https://twitter.com/SwastikofIndia)
 <br>
 [![Instagram Profile](https://img.shields.io/badge/Instagram-profile-%23833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/ig_loki2442/) 
