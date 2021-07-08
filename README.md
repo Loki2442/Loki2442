@@ -33,6 +33,8 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 [![](https://img.shields.io/badge/Steam-profile-%2366c0f4?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198984209411) 
 <br>
 [![Spotify](https://spotify-readme-loki2442.vercel.app/api/spotify)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
+<br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/600286650509295616)](https://discord.com/users/600286650509295616)
 <hr>
 
 <!--Factual Information-->
