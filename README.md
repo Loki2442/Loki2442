@@ -27,14 +27,13 @@ Hi there 👋 Myself Swastik and you can call me Loki also, completely your choi
 
 ### <i> My Profiles </i>
 
-[![](https://img.shields.io/twitter/follow/SwastikofIndia?style=social)](https://twitter.com/SwastikofIndia)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/600286650509295616)](https://discord.com/users/600286650509295616)
+[![Twitter Profile](https://img.shields.io/twitter/follow/SwastikofIndia?style=social)](https://twitter.com/SwastikofIndia)
 <br>
-[![](https://img.shields.io/badge/Instagram-profile-%23833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/ig_loki2442/) 
-[![](https://img.shields.io/badge/Steam-profile-%2366c0f4?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198984209411) 
+[![Instagram Profile](https://img.shields.io/badge/Instagram-profile-%23833AB4?style=flat-square&logo=instagram)](https://www.instagram.com/ig_loki2442/) 
+[![Steam Profile](https://img.shields.io/badge/Steam-profile-%2366c0f4?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561198984209411) 
 <br>
 [![Spotify](https://spotify-readme-loki2442.vercel.app/api/spotify)](https://open.spotify.com/user/iixxrn70fbza27p1c6q32fepo)
-<br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/600286650509295616)](https://discord.com/users/600286650509295616)
 <hr>
 
 <!--Factual Information-->
